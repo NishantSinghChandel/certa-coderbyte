@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/certa-coderbyte/static/css/main.b220e153.css",
+    "main.js": "/certa-coderbyte/static/js/main.a2158e79.js",
+    "static/js/453.f721d7b7.chunk.js": "/certa-coderbyte/static/js/453.f721d7b7.chunk.js",
+    "index.html": "/certa-coderbyte/index.html",
+    "main.b220e153.css.map": "/certa-coderbyte/static/css/main.b220e153.css.map",
+    "main.a2158e79.js.map": "/certa-coderbyte/static/js/main.a2158e79.js.map",
+    "453.f721d7b7.chunk.js.map": "/certa-coderbyte/static/js/453.f721d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b220e153.css",
+    "static/js/main.a2158e79.js"
+  ]
+}
